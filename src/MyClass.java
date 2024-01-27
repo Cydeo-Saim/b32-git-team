@@ -4,5 +4,5 @@ public class MyClass {
 
     // I'm gonna make some changes here
 
-
+    // This is a comment
 }
